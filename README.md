@@ -4,10 +4,13 @@
 
 <h2>About me</h2>
 
-I am Varnika Singh, currently working as a Software Developer [LinkedIn](https://github.com/linkedin). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
-💬 Ask me anything, I will be more than happy to help :D
+I'm Varnika Singh, an Integrated M.Tech student specializing in AI and ML at VIT Bhopal University. Passionate about applying technology for meaningful change, I bring a proven track record from my SWE Internship at Microsoft.
 
+🚀 Recognized globally in hackathons, including a 1st runner-up position at UNESCO India Africa International Hackathon and Smart India Hackathon 2022. Top 100 finalist in Virtusa Engineering Equity Hackathon among 67,000+ talents.
+
+🏅 Committed to continuous learning, I actively contribute creative ideas and technical expertise in hackathons. Eager to make a tangible difference in the tech industry, I'm open to collaborations and discussions on innovative technological solutions.
+
+Connect with me to explore exciting prospects in software engineering and technology! 💻. 
 
 
 
