@@ -21,3 +21,10 @@ Domain | Technology/Tool
 **Domain Knownledge**  | [![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning%20-%2311557c.svg?&style=for-the-badge&logo=matplotlib&logoColor=white)](https://github.com/varnika09/varnika09) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=for-the-badge&logoColor=white)](https://github.com/varnika09/varnika09) 
 **Machine Learning Stack**  | ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib%20-%2311557c.svg?&style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn%20-%2314354C.svg?&style=for-the-badge&logo=seaborn&logoColor=white) 
 **API Dev** | ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+
+<h2 align="center">📫 Reach out to me on</h2>
+  <p align="center">
+    <a target="_blank" href="https://www.linkedin.com/in/varnikasingh2001/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:varnika1209@gmail.com?subject=Hello%20Indrashis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
