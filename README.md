@@ -4,7 +4,7 @@
 
 <h2>About me</h2>
 
-I'm Varnika Singh, an Integrated M.Tech student specializing in AI and ML at VIT Bhopal University. Passionate about applying technology for meaningful change, I bring a proven track record from my SWE Internship at Microsoft.
+👩 I'm Varnika Singh, an Integrated M.Tech student specializing in AI and ML at VIT Bhopal University. Passionate about applying technology for meaningful change, I bring a proven track record from my SWE Internship at Microsoft.
 
 🚀 Recognized globally in hackathons, including a 1st runner-up position at UNESCO India Africa International Hackathon and Smart India Hackathon 2022. Top 100 finalist in Virtusa Engineering Equity Hackathon among 67,000+ talents.
 
@@ -15,7 +15,7 @@ Connect with me to explore exciting prospects in software engineering and techno
 
 
 
-### Hi there 👋
+
 
 <!--
 **varnika09/varnika09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
